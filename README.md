@@ -1,4 +1,4 @@
-# ReqEvboards
+# Force Feedback Board
 a Repo for the PCB's created by Requested Everywhere.
 <br><img src="https://cdn.discordapp.com/attachments/466094746612531201/644964926896472065/downImg.png">
 The first board in the repo is a 4 channel bass transducer driver for force feedback in sim racing.<br>
